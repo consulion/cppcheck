@@ -40,13 +40,13 @@ Compiling
             cmake --build .
 
         If you want to compile the GUI you can use the flag
-        -DBUILD_GUI=ON
+        -DBUILD_GUI=On
 
         For rules support (requires pcre) use the flag
-        -DHAVE_RULES=ON
+        -DHAVE_RULES=On
 
         For release builds it is recommended that you use:
-        -DUSE_MATCHCOMPILER=ON
+        -DUSE_MATCHCOMPILER=On
 
     qmake
     =====
